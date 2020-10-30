@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TAP", "TAP.csproj", "{02FD1D88-3CEF-402A-BE00-0F6D80F29157}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TAPSecureClient", "..\TAPSecureClient\TAPSecureClient.csproj", "{06B87A86-71F9-4D60-BEFC-C623171C1486}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAP.Test", "..\TAP.Test\TAP.Test.csproj", "{913D5D33-EE92-4665-8910-0C6339BF6601}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02FD1D88-3CEF-402A-BE00-0F6D80F29157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02FD1D88-3CEF-402A-BE00-0F6D80F29157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02FD1D88-3CEF-402A-BE00-0F6D80F29157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02FD1D88-3CEF-402A-BE00-0F6D80F29157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06B87A86-71F9-4D60-BEFC-C623171C1486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06B87A86-71F9-4D60-BEFC-C623171C1486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06B87A86-71F9-4D60-BEFC-C623171C1486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06B87A86-71F9-4D60-BEFC-C623171C1486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{913D5D33-EE92-4665-8910-0C6339BF6601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{913D5D33-EE92-4665-8910-0C6339BF6601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{913D5D33-EE92-4665-8910-0C6339BF6601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{913D5D33-EE92-4665-8910-0C6339BF6601}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A57DE436-0D46-43BE-9332-AE06687AAD1D}
+	EndGlobalSection
+EndGlobal
